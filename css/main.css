@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+.smallText {
+    font-size: .2em;
+}
+
+.largeText {
+    font-size: 3em;
+}
